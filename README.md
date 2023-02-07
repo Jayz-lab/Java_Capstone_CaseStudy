@@ -30,9 +30,10 @@ Oracle Explorer, Java basics capstone case study. Creating an API for a Human Re
 #### Department Class
 Create additional fields as needed, as you write methods to process Department data. All fields must be private. Your program must not crash as a result of calling these methods.
 - Create a 'private Employee' array field to store all Employees in a Department. The Department should have a capcity of 10 Employees.
-- Provide a method to add an employee to the Department. Ensure the number of Employees does not exceed the Department's capacity. This Array must not contain null values.
-- Provide a method to return the number of Employees currently in the Department.
+- Provide a method to add an employee to the Department. Ensure the number of Employees does not exceed the Department's capacity. 
+- Provide a method to return the number of Employees currently in the Department.This Array must not contain null values.
 - Provide a method to identify an Employee based on their identification number. Return the Employee object if it exists.
+- Provide a method to return the number of Employees currently in the department
 - Provide a method that returns the total salary of all Employees in the Department.
 - Provide a method that returns the average salary of Employees in the Department.
 
